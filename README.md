@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building scalable AI-powered web applications and optimizing cloud-native architectures.<br>👯 I’m looking to collaborate on  Open-source projects involving Full-Stack Development (React/Django) or Generative AI integrations.<br>🤝 I’m looking for help with Mastering advanced DevOps pipelines and scaling high-performance digital ecosystems.<br>🌱 I’m currently learning Advanced LLM orchestration and deepening my expertise in AWS Cloud services.<br>💬 Ask me about React, Django, FastAPI, Blockchain (Web3), and building AI-driven SEO or Dashboard tools.<br>⚡ Fun fact  I once built an AI assistant that reduced manual code review time by 65%!
-
+🔭 I’m currently working on Building scalable AI-powered web applications and optimizing cloud-native architectures.<br>👯 I’m looking to collaborate on  Open-source projects involving Full-Stack Development (React/Django) or Generative AI integrations.<br>🤝 I’m looking for help with Mastering advanced DevOps pipelines and scaling high-performance digital ecosystems.<br>🌱 I’m currently learning Advanced LLM orchestration and deepening my expertise in AWS Cloud services.<br>💬 Ask me about React, Django, FastAPI, Blockchain (Web3), and building AI-driven SEO or Dashboard tools.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushi-singh-0773a830a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushisingh1265@gmail.com) 
