@@ -10,5 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AyushiSingh2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AyushiSingh2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiSingh2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushiSingh2005&show_icons=true&theme=dark)
+
+![Ayushi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiSingh2005&layout=compact&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
